@@ -1,4 +1,10 @@
 <h1>
+My profile's Quick Start
+</h1>
+<h4>
+<a href=https://github.com/Sl66p?tab=repositories>My repos</a>
+</h4>
+<h1>
 My Github Stats!
 </h1>
 | <a href="https://github.com/Sl66p"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sl66p&show_icons=true&count_private=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Sleep Does Github" /></a> | <a href="https://github.com/Sl66p"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sl66p&layout=compact&theme=onedark&hide_border=true" /></a> |
