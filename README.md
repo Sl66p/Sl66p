@@ -4,16 +4,16 @@ My profile's Quick Start
 <h4>
 <a href=https://github.com/Sl66p?tab=repositories>My repos</a>
 </h4>
+<div align="center">
 <h1>
 My Github Stats!
 </h1>
-| <a href="https://github.com/Sl66p"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sl66p&show_icons=true&count_private=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Sleep Does Github" /></a> | <a href="https://github.com/Sl66p"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sl66p&layout=compact&theme=onedark&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/Sl66p"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sl66p&show_icons=true&count_private=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Sleep Does Github" /></a>  <a href="https://github.com/Sl66p"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sl66p&layout=compact&theme=onedark&hide_border=true" /></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sl66p&theme=onedark&no-frame=true)](https://github.com/Sl66p)
 
 ![Profile-Visits](https://profile-counter.glitch.me/Sl66p/count.svg)
-
+</div>
 <h1>
 About me...
 </h1>
@@ -33,6 +33,17 @@ I also compete in CyberPatriot OS hardening comp. and packet tracing!
 HACK THE WORLD!
 </h3>
 <h1>
+  Tools I own and make payloads for :)
+<h1>
+  <ul>
+    <li>O.MG Plug</li>
+    <li>Hak5 KeyCroc</li>
+    <li>Hak5 USB Rubber Ducky</li>
+    <li>Wifi Pineaplle</li>
+    <ul>
+      <h4>
+       I also teach how to make a raspberry pi pico into a device that works similar to the Rubber Ducky! Check my repos!
+        <a href=https://github.com/Sl66p/Ras-Pi-Pico-HID-Manipulator>Ras Pi Ducky :)</a>
 Afilliations
 </h1>
 <h4>
