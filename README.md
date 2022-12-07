@@ -45,6 +45,7 @@ HACK THE WORLD!
        I also teach how to make a raspberry pi pico into a device that works similar to the Rubber Ducky! Check my repos!
         <a href=https://github.com/Sl66p/Ras-Pi-Pico-HID-Manipulator>Ras Pi Ducky :)</a>
   </h4>
+  <h1>
 Afilliations
 </h1>
 <h4>
