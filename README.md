@@ -34,16 +34,17 @@ HACK THE WORLD!
 </h3>
 <h1>
   Tools I own and make payloads for :)
-<h1>
+</h1>
   <ul>
     <li>O.MG Plug</li>
     <li>Hak5 KeyCroc</li>
     <li>Hak5 USB Rubber Ducky</li>
     <li>Wifi Pineaplle</li>
-    <ul>
+    </ul>
       <h4>
        I also teach how to make a raspberry pi pico into a device that works similar to the Rubber Ducky! Check my repos!
         <a href=https://github.com/Sl66p/Ras-Pi-Pico-HID-Manipulator>Ras Pi Ducky :)</a>
+  </h4>
 Afilliations
 </h1>
 <h4>
