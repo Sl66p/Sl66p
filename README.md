@@ -27,7 +27,10 @@ I also compete in CyberPatriot OS hardening comp. and packet tracing!
 1st round: Held #1 in the Nation for 24+ hrs, #1 in MI, top 10 in the nation as of (11/3/22)
   </h4>
   <h4>
-2nd round: Coming soon! (coming 11/4/22)
+2nd round: Placed top 50, moved onto next round!
+  </h4>
+  <h4>
+3rd round: Competeing 12/8/2022 :)
   </h4>
 <h3>
 HACK THE WORLD!
