@@ -43,8 +43,8 @@ HACK THE WORLD!
     <li>Hak5 USB Rubber Ducky</li>
     <li>Wifi Pineapple</li>
     <li>Flipper Zero</li>
-  <li>Currently in contact with flipper devs with intentions of obtaining a flipper one!</li>
-  <li>Currently building the PWNagotchi!</li>
+  <li>Currently in contact with flipper devs with intentions of obtaining a flipper one!<a href=https://flipperzero.one/one>(Flipper One Link)</a></li>
+  <li>Currently building the PWNagotchi! <a href=https://pwnagotchi.ai/>(PWNagotchi link)</a></li>
     </ul>
       <h4>
        I also teach how to make a raspberry pi pico into a device that works similar to the Rubber Ducky! Check my repos!
