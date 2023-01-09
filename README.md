@@ -41,7 +41,10 @@ HACK THE WORLD!
     <li>O.MG Plug</li>
     <li>Hak5 KeyCroc</li>
     <li>Hak5 USB Rubber Ducky</li>
-    <li>Wifi Pineaplle</li>
+    <li>Wifi Pineapple</li>
+    <li>Flipper Zero</li>
+  <li>Currently in contact with flipper devs with intentions of obtaining a flipper one!</li>
+  <li>Currently building the PWNagotchi!</li>
     </ul>
       <h4>
        I also teach how to make a raspberry pi pico into a device that works similar to the Rubber Ducky! Check my repos!
