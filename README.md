@@ -20,7 +20,7 @@ My Github Stats!
 <section id="about me" class="h2">
   <h2>About Me...</h2>
   <p>
-    My Name is Sleep, I'm a student in cybersecurity, I develop scripts for multiple types of hacking tools!
+    My Name is Sleep, I'm a cybersecurity advocate, I develop scripts for multiple types of hacking tools!
   </p>
   <p>
     I also compete in the First Robotics Competition, as well as Cyberpatriot OS Hardening and Packet Tracking Competition.
@@ -42,20 +42,3 @@ My Github Stats!
      I also teach how to make a raspberry pi pico into a device that works similar to the Rubber Ducky! Check my repos!
         <a href="https://github.com/Sl66p/Ras-Pi-Pico-HID-Manipulator" target="_blank">Ras Pi Ducky :)</a>
   </p>
-
-<!-- !Affilliations! -->
-  <section id="affiliations" class="h2">
-    <h2>Affiliations</h2>
-    <ul>
-      <li>Program Security Analyst and Programmer for <a href="https://coldogstudios.github.io" target="_blank">ColDog Studios.</a></li>
-      <li>Administartor for a free online help desk, <a href="https://hillsdalecybersecurity.github.io" target="_blank">hosted by my tech center!</a></li>
-
-<!-- !Socials! -->
-<section id="socials" class="h2">
-  <h2>Socials!</h2>
-  <ul>
-    <li><a href=https://twitter.com/ayysl66p>Twitter</a></li>
-    <li><a href=https://www.instagram.com/envysleepy/>Instagram</a></li>
-      <p>
-        Feel Free to DM me!
-      </p>
