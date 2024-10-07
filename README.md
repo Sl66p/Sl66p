@@ -23,7 +23,10 @@ My Github Stats!
     My Name is Sleep, I'm a cybersecurity advocate, I develop scripts for multiple types of hacking tools!
   </p>
   <p>
-    I also compete in the First Robotics Competition, as well as Cyberpatriot OS Hardening and Packet Tracking Competition.
+    I've also compete in the First Robotics Competition, as well as Cyberpatriot OS Hardening and Packet Tracking Competition.
+  </p>
+  <p>
+    Highly interested in physical security and pentesting. 
   </p>
 </section>
   
